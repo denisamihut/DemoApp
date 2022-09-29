@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI-Application</string>
+    <string name="bmi_calculator_title">BMI Calculator</string>
+    <string name="weight_hint">Enter your weight(in Kg)</string>
+    <string name="height_hint">Enter your height(in cm)</string>
+    <string name="compute_bmi_button_text">Compute BMI</string>
+    <string name="bmi_value_title">BMI Value</string>
+    <string name="bmi_sample_value">21.5</string>
+    <string name="bmi_index">BMI INDEX</string>
+    <string name="bmi_status">BMI STATUS</string>
+</resources>
