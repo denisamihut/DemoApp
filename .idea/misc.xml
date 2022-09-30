@@ -5,6 +5,9 @@
       <map>
         <entry key="..\:/Development/repos/bmi_application/app/src/main/res/layout/activity_bmi_status.xml" value="0.2" />
         <entry key="..\:/Development/repos/bmi_application/app/src/main/res/layout/bmi_list.xml" value="0.2" />
+        <entry key="..\:/Development/repos/bmi_application/demoApp/src/main/res/layout/activity_bmi_status.xml" value="0.1" />
+        <entry key="..\:/Development/repos/bmi_application/demoApp/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Development/repos/bmi_application/demoApp/src/main/res/layout/bmi_list.xml" value="0.1" />
       </map>
     </option>
   </component>
