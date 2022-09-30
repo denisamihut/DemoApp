@@ -1,7 +1,7 @@
-package com.mihut.bmi_application.factory
+package com.mihut.bmi_application.view
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.mihut.bmi_application.viewmodel.BmiStatusViewModel
+
 class BmiStatusActivityViewModelFactory(private val computedBmiValue: Double) :
     ViewModelProvider.Factory {
     override fun <T : ViewModel> create(modelClass: Class<T>): T {

@@ -5,11 +5,8 @@ import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.mihut.bmi_application.R
-import com.mihut.bmi_application.adapter.BmiValuesListAdapter
-import com.mihut.bmi_application.databinding.ActivityBmiStatusBinding
-import com.mihut.bmi_application.factory.BmiStatusActivityViewModelFactory
-import com.mihut.bmi_application.viewmodel.BmiStatusViewModel
+import com.karthikr.bmi_application.R
+import com.karthikr.bmi_application.databinding.ActivityBmiStatusBinding
 
 class BmiStatusActivity : AppCompatActivity() {
     private lateinit var binding: ActivityBmiStatusBinding

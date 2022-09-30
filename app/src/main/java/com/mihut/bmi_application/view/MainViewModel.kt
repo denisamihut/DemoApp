@@ -1,4 +1,4 @@
-package com.mihut.bmi_application.viewmodel
+package com.mihut.bmi_application.view
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import java.lang.Math.round

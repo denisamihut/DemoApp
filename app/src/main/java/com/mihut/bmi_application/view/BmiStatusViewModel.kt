@@ -1,7 +1,6 @@
-package com.mihut.bmi_application.viewmodel
+package com.mihut.bmi_application.view
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.mihut.bmi_application.model.BmiItem
 
 class BmiStatusViewModel(val computedBmiValue: Double) : ViewModel() {
     var bmiValuesListLiveData = MutableLiveData<MutableList<BmiItem>>()

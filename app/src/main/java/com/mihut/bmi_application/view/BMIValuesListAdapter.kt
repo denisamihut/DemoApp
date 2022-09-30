@@ -1,11 +1,10 @@
-package com.mihut.bmi_application.adapter
+package com.mihut.bmi_application.view
 import android.content.Context
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.mihut.bmi_application.R
-import com.mihut.bmi_application.model.BmiItem
+import com.karthikr.bmi_application.R
 import kotlinx.android.synthetic.main.bmi_list.view.*
 class BmiValuesListAdapter(
     private val context: Context,

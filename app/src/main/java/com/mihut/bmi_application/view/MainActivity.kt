@@ -9,7 +9,7 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import com.mihut.bmi_application.R
 import com.mihut.bmi_application.databinding.ActivityMainBinding
-import com.mihut.bmi_application.viewmodel.MainViewModel
+
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     private lateinit var viewModel: MainViewModel
